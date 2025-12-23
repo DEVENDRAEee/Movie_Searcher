@@ -1,4 +1,4 @@
-# 🎬 Movie Explorer App (React.js)
+# 🎬 Movie Searcher (React.js)
 
 This is a React-based web application that allows users to browse and explore movies using **The Movie Database (TMDb)** API.  
 The app fetches real-time movie data — including posters, ratings, and descriptions — and displays them in a clean, modern UI.
